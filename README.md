@@ -1,1 +1,1 @@
-# scissorspaperstone
+# scissorspaperstonebasic
